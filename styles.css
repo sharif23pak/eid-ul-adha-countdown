@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url(images/idul-adha-indonesia.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.countdown-container {
+    margin-top: 50px;
+}
+
+.countdown-timer {
+    font-size: 24px;
+    margin-top: 20px;
+}
+
